@@ -3,6 +3,7 @@ This is my new Project which is related to DSA. It's one of the biggest project 
 
 Basically, This Project took my more then 10 days to complete it.
 In this Project, I make more then 225 functions, Use 10 header files and some OOP's concept.
+I also include my previous project in this which was related to universal Matrix for making in detailed and more functional.
 This Project is very beneficial for DSA Students and others because their all concepts which are related to DSA are coverd in this.
 
 Instructions to apply this Project:-
