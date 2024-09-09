@@ -8,11 +8,17 @@ This Project is very beneficial for DSA Students and others because their all co
 Instructions to apply this Project:-
 
 (i) You can perform all the Operations at a time of running Program untill you chose the 'Exit' Option.
+
 (ii) The all operation in this Project are based on run time and perform as dynamically.
+
 (iii) The All Operations which are mentioned before starting the program, Each operations are based on their index number.
+
 (iv) The All Operations are performed on the basis of their index number.
+
 (v) Read the all captions carefully and then perform any operations which are you want.
+
 (vi) Follow the all instructions according to this project otherwise You'll be get wrong output.
+
 
 The All Operations with their types related to DSA, Which you can perform in this Project are,
 
